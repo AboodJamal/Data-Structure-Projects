@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Abdullah Jamal\Desktop\College\Second year\Data structure\Assignment 4 - mini-project assignment DS\mini-project assignment DS\DoublyCircularList.h(153): warning C4715: 'DoublyCircular::addLocationInOrder': not all control paths return a value
+C:\Users\Abdullah Jamal\Desktop\College\Second year\Data structure\Assignment 4 - mini-project assignment DS\mini-project assignment DS\SL.h(219): warning C4715: 'SinglyList<Martyr>::removeLast': not all control paths return a value
+  mini-project assignment DS.vcxproj -> C:\Users\Abdullah Jamal\Desktop\College\Second year\Data structure\Assignment 4 - mini-project assignment DS\x64\Debug\mini-project assignment DS.exe
